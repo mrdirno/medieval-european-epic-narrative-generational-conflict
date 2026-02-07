@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-epic-narrative-generational-conflict",
+  "title": "The Reckoning of Physics",
+  "tagline": "A dying king's brutal inheritance and a merchant's son's ruinous debts collide across generations, forcing two heirs to gamble their legacies on a single, desperate move.",
+  "target_words": 69846,
+  "actual_words": 69846,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Inheritance",
+    "Commerce as War",
+    "The Fracturing of Legacy",
+    "The Anatomy of Ruin"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Arrowhead and the Heir",
+      "words": 5820
+    },
+    {
+      "ch": 2,
+      "title": "A River of Churned Earth",
+      "words": 5820
+    },
+    {
+      "ch": 3,
+      "title": "The Chant of the Blue Tabard",
+      "words": 5820
+    },
+    {
+      "ch": 4,
+      "title": "A Sky of Bruised Canvas",
+      "words": 5820
+    },
+    {
+      "ch": 5,
+      "title": "The Archive’s Held Breath",
+      "words": 5820
+    },
+    {
+      "ch": 6,
+      "title": "The Scar’s Frozen Convulsion",
+      "words": 5820
+    },
+    {
+      "ch": 7,
+      "title": "Canyon of Watching Dust",
+      "words": 5820
+    },
+    {
+      "ch": 8,
+      "title": "The Heartspike’s Cold Honey",
+      "words": 5820
+    },
+    {
+      "ch": 9,
+      "title": "A Specimen in Resin",
+      "words": 5820
+    },
+    {
+      "ch": 10,
+      "title": "The Reckoning of Physics",
+      "words": 5820
+    },
+    {
+      "ch": 11,
+      "title": "The Toothless, Open Mouth",
+      "words": 5820
+    },
+    {
+      "ch": 12,
+      "title": "Rain as a Gentle Benediction",
+      "words": 5820
+    }
+  ]
+}
